@@ -57,3 +57,6 @@ Navigate to the settings page for your **Purdue-CS193-Fall-2019/homework-1-\<You
 
 
 # Samuel Tarr's First CS193 Homework
+- Learning about github
+- Learning about terminal
+- The TA's
