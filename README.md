@@ -53,3 +53,7 @@ Navigate to the settings page for your **Purdue-CS193-Fall-2019/homework-1-\<You
 | List is ‘bulleted’   | 1      |
 | Successfully committed homework   | 2      |
 | Total   | 10      |
+
+
+
+# Samuel Tarr's First CS193 Homework
